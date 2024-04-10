@@ -12,7 +12,7 @@
 Clone repository
 
 ```
-git clone XXXX
+git clone git@github.com:jv10/fizzbuzz.git
 ```
 
 Install app
